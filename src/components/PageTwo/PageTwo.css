@@ -1,0 +1,27 @@
+
+
+.two-card-container{
+    box-shadow: 5px 10px #806d6d;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.sub-heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+
+
+
+
+
+.two-cards-item-container{
+    display: flex;
+    flex-direction: row;
+
+}

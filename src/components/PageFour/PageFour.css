@@ -1,0 +1,46 @@
+.four-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.city-container,.start-container,.departure-container,.arrival-container,.room-container{
+    display: flex;
+    flex-direction: column;
+}
+
+#city{
+    width: 160px;
+}
+
+.arrival-departure-container,.start-end-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.book{
+    background-color: black;
+    border-radius: 0px;
+    margin: 10px;
+}
+
+.four-container{
+    margin: 30px;
+}
+
+
+.image-four-container{
+    margin-left: 60px;
+    margin-bottom: 60px;
+}
+
+
+.card-container{
+    box-shadow: 5px 10px #806d6d;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 10px;
+}
